@@ -4,6 +4,6 @@
 ### Interest
 - Backend, Data Engineering  
 
-[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://progdigest.blogspot.com/)](https://progdigest.blogspot.com/)
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kimwithglasses.tumblr.com/)](https://kimwithglasses.tumblr.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaegukimio/)](https://www.linkedin.com/in/jaegukimio/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jaegu.kim.9655)](https://www.facebook.com/jaegu.kim.9655)
