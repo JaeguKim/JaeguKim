@@ -5,6 +5,6 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jaegu.kim.9655)](https://www.facebook.com/jaegu.kim.9655)  
   
 ### Interest
-- Backend, Data Engineering  
+- Big data, Data Engineering  
 
 
